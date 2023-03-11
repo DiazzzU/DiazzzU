@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Dias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diazzzu&label=Profile%20views&color=0e75b6&style=flat" alt="levap123" /> </p>
 
-- pass
-- 🔭 I’m currently working on bookstore microservices application using gRPC(protobuf) [LINK](https://github.com/Levap123/bookstore)
-
-- 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, gRPC(protobuf)**
-
-- 📫 How to reach me [dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com
+- pass 
+- 📫 How to reach me [tg:dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com
 
 
 <p align="left">
