@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Dias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diazzzu&label=Profile%20views&color=0e75b6&style=flat" alt="levap123" /> </p>
 
-- pass 
-- 📫 How to reach me [tg:dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com
+- 👨‍💻 I'm 4th year bachelor student of Innopolis University.
+- 🏢 I'm currently working in [Checkscan](https://checkscan.ru/sections) as backend developer.
+- ✨ My major stack is Java, Spring boot, but also interested in Python and C++.
+- 🚧 Nowadays working on thesis project [Studyhub](https://github.com/InnoStudyHub/back-end) 
+- 📫 How to reach me [tg:dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com.
 
 
 <p align="left">
