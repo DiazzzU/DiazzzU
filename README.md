@@ -4,7 +4,8 @@
 - 👨‍💻 I'm 4th year bachelor student of Innopolis University.
 - 🏢 I'm currently working in [Checkscan](https://checkscan.ru/sections) as backend developer.
 - ✨ My major stack is Java, Spring boot, but also interested in Python and C++.
-- 🚧 Nowadays working on thesis project [Studyhub](https://github.com/InnoStudyHub/back-end) 
+- 🚧 Nowadays working on thesis project [Studyhub](https://github.com/InnoStudyHub/back-end)
+- 💼 My portfolio -> [click](https://drive.google.com/file/d/1vFYgWgD5hHpbbBq-BW8fXzRGjDtwbZ2l/view?usp=sharing) 
 - 📫 How to reach me [tg:dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com.
 
 
