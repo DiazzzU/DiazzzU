@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go, postgres, computer networks, Restful API, MOCK Testing, Docker, Kubernetes, gRPC(protobuf)**
 
-- 📫 How to reach me ![dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com
+- 📫 How to reach me [dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com
 
 
 <p align="left">
