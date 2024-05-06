@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Dias</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diazzzu&label=Profile%20views&color=0e75b6&style=flat" alt="levap123" /> </p>
 
-- 👨‍💻 I'm 4th year bachelor student of Innopolis University.
-- 🏢 I'm currently working in [Checkscan](https://checkscan.ru/sections) as backend developer.
+- 👨‍💻 I'm a bachelor's graduate of Innopolis University
+- 🏢 I'm currently working as Java backend developer.
 - ✨ My major stack is Java, Spring boot, but also interested in Python and C++.
 - 🚧 Nowadays, I'm working on thesis project [Studyhub](https://github.com/InnoStudyHub/back-end)
 - 💼 My portfolio -> [click](https://drive.google.com/file/d/1vFYgWgD5hHpbbBq-BW8fXzRGjDtwbZ2l/view?usp=sharing) 
