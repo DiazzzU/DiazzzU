@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm a bachelor's graduate of Innopolis University
 - 🏢 I'm currently working as Java backend developer.
-- ✨ My major stack is Java, Spring boot, but also interested in Python and C++.
+- ✨ My major language is Java, but also interested in Python, Go and C++.
 - 🚧 Nowadays, I'm working on thesis project [Studyhub](https://github.com/InnoStudyHub/back-end)
 - 💼 My portfolio -> [click](https://drive.google.com/file/d/1vFYgWgD5hHpbbBq-BW8fXzRGjDtwbZ2l/view?usp=sharing) 
 - 📫 How to reach me [tg:dionysus](https://t.me/dionyusus) or diazzz.usenov@gmail.com.
